@@ -1,4 +1,4 @@
-# 🛒 Ecommerce Chatbot
+<img width="586" height="245" alt="image" src="https://github.com/user-attachments/assets/0ceeffcc-f5eb-4f40-b932-3d7e6c2ba249" /># 🛒 Ecommerce Chatbot
 
 A Streamlit-based chatbot that answers user questions about product prices, availability, and comparisons across multiple e-commerce platforms (like Amazon, Flipkart, Temu) using MongoDB and LLM-powered queries.
 
@@ -16,14 +16,8 @@ A Streamlit-based chatbot that answers user questions about product prices, avai
 
 ## Project Structure
 
-app/
-│
-├── main.py     # Streamlit frontend
-├── models.py   # MongoDB table schema and description
-├── chatbot.py  # Core chatbot logic using LLMs
-├── database.py # MongoDB connection
-├── llm.py      # Gemini LLM initialization
-└── utils.py    # Helper functions
+<img width="586" height="245" alt="image" src="https://github.com/user-attachments/assets/d213924d-11fe-4cb7-bf42-8b98747f7631" />
+
 
 Create a virtual environment and activate it:
 python -m venv venv
@@ -69,3 +63,4 @@ streamlit run app/main.py
 
 
 3.Compare prices of Samsung Galaxy S23 across platforms
+
