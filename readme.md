@@ -39,8 +39,8 @@ Collection: smartphones
 
 Schema:
 
-platform: string
-category: string
+platform: string\n
+category: string\n
 product_id: string
 product_name: string
 brand: string
@@ -68,6 +68,7 @@ streamlit run app/main.py
 <img width="1509" height="954" alt="Screenshot 2026-01-05 134109" src="https://github.com/user-attachments/assets/047d06f5-442e-4e31-ba28-f144829368ef" />
 <img width="1589" height="960" alt="Screenshot 2026-01-05 134130" src="https://github.com/user-attachments/assets/178766e5-f7a0-428d-a07f-c6ac170708c0" />
 <img width="1507" height="959" alt="Screenshot 2026-01-05 134148" src="https://github.com/user-attachments/assets/d16ce218-e2d7-4d56-b98d-db1bf2564da9" />
+
 
 
 
