@@ -10,7 +10,7 @@ A Streamlit-based chatbot that answers user questions about product prices, avai
 - Compare prices across platforms.
 - Find products under a specific price.
 - Check availability across platforms.
-- Provides clear, user-friendly answers with platform URLs.
+- Provides clear, user-friendly answers.
 
 ---
 
@@ -66,5 +66,6 @@ streamlit run app/main.py
 1.Cheapest iPhone 15 on Amazon and Flipkart
 
 2.List all smartphones under 2000 AED
+
 
 3.Compare prices of Samsung Galaxy S23 across platforms
