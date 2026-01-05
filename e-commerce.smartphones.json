@@ -1,0 +1,690 @@
+[{
+  "_id": {
+    "$oid": "695b770e5955abd9e106fdb9"
+  },
+  "platform": "Amazon",
+  "category": "Smartphone",
+  "product_id": "AMZ-SP-021",
+  "product_name": "iPhone 15",
+  "brand": "Apple",
+  "price": 3800,
+  "currency": "AED",
+  "rating": 4.7,
+  "reviews_count": 15200,
+  "specs": {
+    "ram": "6 GB",
+    "storage": "128 GB",
+    "processor": "A17 Bionic",
+    "display": "6.1 inch OLED",
+    "battery": "3200 mAh"
+  },
+  "availability": "In Stock",
+  "platform_url": "https://www.amazon.ae/dp/B0XXXXXXX1"
+},
+{
+  "_id": {
+    "$oid": "695b770e5955abd9e106fdba"
+  },
+  "platform": "Amazon",
+  "category": "Smartphone",
+  "product_id": "AMZ-SP-022",
+  "product_name": "iPhone 16",
+  "brand": "Apple",
+  "price": 4200,
+  "currency": "AED",
+  "rating": 4.8,
+  "reviews_count": 10800,
+  "specs": {
+    "ram": "6 GB",
+    "storage": "256 GB",
+    "processor": "A18 Bionic",
+    "display": "6.1 inch OLED",
+    "battery": "3300 mAh"
+  },
+  "availability": "In Stock",
+  "platform_url": "https://www.amazon.ae/dp/B0XXXXXXX2"
+},
+{
+  "_id": {
+    "$oid": "695b770e5955abd9e106fdbb"
+  },
+  "platform": "Amazon",
+  "category": "Smartphone",
+  "product_id": "AMZ-SP-023",
+  "product_name": "iPhone 17",
+  "brand": "Apple",
+  "price": 4600,
+  "currency": "AED",
+  "rating": 4.9,
+  "reviews_count": 9500,
+  "specs": {
+    "ram": "8 GB",
+    "storage": "256 GB",
+    "processor": "A19 Bionic",
+    "display": "6.2 inch OLED",
+    "battery": "3400 mAh"
+  },
+  "availability": "In Stock",
+  "platform_url": "https://www.amazon.ae/dp/B0XXXXXXX3"
+},
+{
+  "_id": {
+    "$oid": "695b770e5955abd9e106fdbc"
+  },
+  "platform": "Amazon",
+  "category": "Smartphone",
+  "product_id": "AMZ-SP-024",
+  "product_name": "Samsung Galaxy S24",
+  "brand": "Samsung",
+  "price": 3500,
+  "currency": "AED",
+  "rating": 4.6,
+  "reviews_count": 12000,
+  "specs": {
+    "ram": "12 GB",
+    "storage": "256 GB",
+    "processor": "Exynos 2500",
+    "display": "6.8 inch AMOLED",
+    "battery": "5000 mAh"
+  },
+  "availability": "In Stock",
+  "platform_url": "https://www.amazon.ae/dp/B0XXXXXXX4"
+},
+{
+  "_id": {
+    "$oid": "695b770e5955abd9e106fdbd"
+  },
+  "platform": "Amazon",
+  "category": "Smartphone",
+  "product_id": "AMZ-SP-025",
+  "product_name": "Samsung Galaxy S25",
+  "brand": "Samsung",
+  "price": 3800,
+  "currency": "AED",
+  "rating": 4.7,
+  "reviews_count": 8900,
+  "specs": {
+    "ram": "12 GB",
+    "storage": "512 GB",
+    "processor": "Exynos 2600",
+    "display": "6.9 inch AMOLED",
+    "battery": "5200 mAh"
+  },
+  "availability": "In Stock",
+  "platform_url": "https://www.amazon.ae/dp/B0XXXXXXX5"
+},
+{
+  "_id": {
+    "$oid": "695b770e5955abd9e106fdbe"
+  },
+  "platform": "Amazon",
+  "category": "Smartphone",
+  "product_id": "AMZ-SP-026",
+  "product_name": "OnePlus 12",
+  "brand": "OnePlus",
+  "price": 2200,
+  "currency": "AED",
+  "rating": 4.5,
+  "reviews_count": 7300,
+  "specs": {
+    "ram": "12 GB",
+    "storage": "256 GB",
+    "processor": "Snapdragon 8 Gen 3",
+    "display": "6.7 inch AMOLED",
+    "battery": "4800 mAh"
+  },
+  "availability": "In Stock",
+  "platform_url": "https://www.amazon.ae/dp/B0XXXXXXX6"
+},
+{
+  "_id": {
+    "$oid": "695b770e5955abd9e106fdbf"
+  },
+  "platform": "Amazon",
+  "category": "Smartphone",
+  "product_id": "AMZ-SP-027",
+  "product_name": "Xiaomi 14 Pro",
+  "brand": "Xiaomi",
+  "price": 1800,
+  "currency": "AED",
+  "rating": 4.4,
+  "reviews_count": 6800,
+  "specs": {
+    "ram": "12 GB",
+    "storage": "256 GB",
+    "processor": "Snapdragon 8 Gen 3",
+    "display": "6.73 inch AMOLED",
+    "battery": "4600 mAh"
+  },
+  "availability": "In Stock",
+  "platform_url": "https://www.amazon.ae/dp/B0XXXXXXX7"
+},
+{
+  "_id": {
+    "$oid": "695b770e5955abd9e106fdc0"
+  },
+  "platform": "Amazon",
+  "category": "Smartphone",
+  "product_id": "AMZ-SP-028",
+  "product_name": "Vivo V27",
+  "brand": "Vivo",
+  "price": 1900,
+  "currency": "AED",
+  "rating": 4.3,
+  "reviews_count": 6100,
+  "specs": {
+    "ram": "8 GB",
+    "storage": "128 GB",
+    "processor": "Mediatek Dimensity 720",
+    "display": "6.78 inch AMOLED",
+    "battery": "4500 mAh"
+  },
+  "availability": "In Stock",
+  "platform_url": "https://www.amazon.ae/dp/B0XXXXXXX8"
+},
+{
+  "_id": {
+    "$oid": "695b770e5955abd9e106fdc1"
+  },
+  "platform": "Amazon",
+  "category": "Smartphone",
+  "product_id": "AMZ-SP-029",
+  "product_name": "Realme GT 5",
+  "brand": "Realme",
+  "price": 1600,
+  "currency": "AED",
+  "rating": 4.2,
+  "reviews_count": 5400,
+  "specs": {
+    "ram": "12 GB",
+    "storage": "256 GB",
+    "processor": "Snapdragon 8+ Gen 2",
+    "display": "6.6 inch AMOLED",
+    "battery": "4700 mAh"
+  },
+  "availability": "In Stock",
+  "platform_url": "https://www.amazon.ae/dp/B0XXXXXXX9"
+},
+{
+  "_id": {
+    "$oid": "695b770e5955abd9e106fdc2"
+  },
+  "platform": "Amazon",
+  "category": "Smartphone",
+  "product_id": "AMZ-SP-030",
+  "product_name": "Oppo Find X7",
+  "brand": "Oppo",
+  "price": 2000,
+  "currency": "AED",
+  "rating": 4.4,
+  "reviews_count": 5900,
+  "specs": {
+    "ram": "12 GB",
+    "storage": "256 GB",
+    "processor": "Snapdragon 8+ Gen 2",
+    "display": "6.78 inch AMOLED",
+    "battery": "4800 mAh"
+  },
+  "availability": "In Stock",
+  "platform_url": "https://www.amazon.ae/dp/B0XXXXXXX10"
+},
+{
+  "_id": {
+    "$oid": "695b77a75955abd9e106fdc4"
+  },
+  "platform": "Flipkart",
+  "category": "Smartphone",
+  "product_id": "FLK-SP-001",
+  "product_name": "iPhone 15",
+  "brand": "Apple",
+  "price": 3999,
+  "currency": "AED",
+  "rating": 4.6,
+  "reviews_count": 14000,
+  "specs": {
+    "ram": "6 GB",
+    "storage": "256 GB",
+    "processor": "A17 Bionic",
+    "display": "6.1 inch Super Retina XDR",
+    "battery": "3300 mAh"
+  },
+  "availability": "In Stock",
+  "platform_url": "https://www.flipkart.com/product/iphone-15"
+},
+{
+  "_id": {
+    "$oid": "695b77a75955abd9e106fdc5"
+  },
+  "platform": "Flipkart",
+  "category": "Smartphone",
+  "product_id": "FLK-SP-002",
+  "product_name": "iPhone 16",
+  "brand": "Apple",
+  "price": 4700,
+  "currency": "AED",
+  "rating": 4.8,
+  "reviews_count": 10200,
+  "specs": {
+    "ram": "6 GB",
+    "storage": "512 GB",
+    "processor": "A18 Bionic",
+    "display": "6.2 inch Super Retina XDR",
+    "battery": "3450 mAh"
+  },
+  "availability": "In Stock",
+  "platform_url": "https://www.flipkart.com/product/iphone-16"
+},
+{
+  "_id": {
+    "$oid": "695b77a75955abd9e106fdc6"
+  },
+  "platform": "Flipkart",
+  "category": "Smartphone",
+  "product_id": "FLK-SP-003",
+  "product_name": "iPhone 17",
+  "brand": "Apple",
+  "price": 5400,
+  "currency": "AED",
+  "rating": 4.9,
+  "reviews_count": 8900,
+  "specs": {
+    "ram": "8 GB",
+    "storage": "512 GB",
+    "processor": "A19 Bionic",
+    "display": "6.3 inch Super Retina XDR",
+    "battery": "3550 mAh"
+  },
+  "availability": "Pre-order",
+  "platform_url": "https://www.flipkart.com/product/iphone-17"
+},
+{
+  "_id": {
+    "$oid": "695b77a75955abd9e106fdc7"
+  },
+  "platform": "Flipkart",
+  "category": "Smartphone",
+  "product_id": "FLK-SP-004",
+  "product_name": "Samsung Galaxy S24",
+  "brand": "Samsung",
+  "price": 4100,
+  "currency": "AED",
+  "rating": 4.5,
+  "reviews_count": 9600,
+  "specs": {
+    "ram": "12 GB",
+    "storage": "256 GB",
+    "processor": "Exynos 2400",
+    "display": "6.2 inch Dynamic AMOLED",
+    "battery": "4150 mAh"
+  },
+  "availability": "In Stock",
+  "platform_url": "https://www.flipkart.com/product/galaxy-s24"
+},
+{
+  "_id": {
+    "$oid": "695b77a75955abd9e106fdc8"
+  },
+  "platform": "Flipkart",
+  "category": "Smartphone",
+  "product_id": "FLK-SP-005",
+  "product_name": "Samsung Galaxy S25",
+  "brand": "Samsung",
+  "price": 4900,
+  "currency": "AED",
+  "rating": 4.7,
+  "reviews_count": 7200,
+  "specs": {
+    "ram": "12 GB",
+    "storage": "1 TB",
+    "processor": "Exynos 2500",
+    "display": "6.5 inch Dynamic AMOLED",
+    "battery": "4600 mAh"
+  },
+  "availability": "Pre-order",
+  "platform_url": "https://www.flipkart.com/product/galaxy-s25"
+},
+{
+  "_id": {
+    "$oid": "695b77a75955abd9e106fdc9"
+  },
+  "platform": "Flipkart",
+  "category": "Smartphone",
+  "product_id": "FLK-SP-006",
+  "product_name": "OnePlus 12",
+  "brand": "OnePlus",
+  "price": 2300,
+  "currency": "AED",
+  "rating": 4.4,
+  "reviews_count": 5100,
+  "specs": {
+    "ram": "16 GB",
+    "storage": "256 GB",
+    "processor": "Snapdragon 8 Gen 3",
+    "display": "6.7 inch Fluid AMOLED",
+    "battery": "4900 mAh"
+  },
+  "availability": "In Stock",
+  "platform_url": "https://www.flipkart.com/product/oneplus-12"
+},
+{
+  "_id": {
+    "$oid": "695b77a75955abd9e106fdca"
+  },
+  "platform": "Flipkart",
+  "category": "Smartphone",
+  "product_id": "FLK-SP-007",
+  "product_name": "Xiaomi 14 Pro",
+  "brand": "Xiaomi",
+  "price": 1850,
+  "currency": "AED",
+  "rating": 4.5,
+  "reviews_count": 6700,
+  "specs": {
+    "ram": "12 GB",
+    "storage": "256 GB",
+    "processor": "Snapdragon 8 Gen 3",
+    "display": "6.73 inch AMOLED",
+    "battery": "4700 mAh"
+  },
+  "availability": "In Stock",
+  "platform_url": "https://www.flipkart.com/product/xiaomi-14-pro"
+},
+{
+  "_id": {
+    "$oid": "695b77a75955abd9e106fdcb"
+  },
+  "platform": "Flipkart",
+  "category": "Smartphone",
+  "product_id": "FLK-SP-008",
+  "product_name": "Google Pixel 8",
+  "brand": "Google",
+  "price": 2600,
+  "currency": "AED",
+  "rating": 4.6,
+  "reviews_count": 4400,
+  "specs": {
+    "ram": "8 GB",
+    "storage": "256 GB",
+    "processor": "Google Tensor G4",
+    "display": "6.3 inch OLED",
+    "battery": "4400 mAh"
+  },
+  "availability": "In Stock",
+  "platform_url": "https://www.flipkart.com/product/pixel-8"
+},
+{
+  "_id": {
+    "$oid": "695b77a75955abd9e106fdcc"
+  },
+  "platform": "Flipkart",
+  "category": "Smartphone",
+  "product_id": "FLK-SP-009",
+  "product_name": "Oppo Find X6",
+  "brand": "Oppo",
+  "price": 2150,
+  "currency": "AED",
+  "rating": 4.3,
+  "reviews_count": 4000,
+  "specs": {
+    "ram": "12 GB",
+    "storage": "512 GB",
+    "processor": "Snapdragon 8 Gen 3",
+    "display": "6.8 inch AMOLED",
+    "battery": "4800 mAh"
+  },
+  "availability": "In Stock",
+  "platform_url": "https://www.flipkart.com/product/oppo-find-x6"
+},
+{
+  "_id": {
+    "$oid": "695b77a75955abd9e106fdcd"
+  },
+  "platform": "Flipkart",
+  "category": "Smartphone",
+  "product_id": "FLK-SP-010",
+  "product_name": "Realme GT 6",
+  "brand": "Realme",
+  "price": 1650,
+  "currency": "AED",
+  "rating": 4.2,
+  "reviews_count": 3300,
+  "specs": {
+    "ram": "12 GB",
+    "storage": "256 GB",
+    "processor": "MediaTek Dimensity 9200",
+    "display": "6.62 inch AMOLED",
+    "battery": "4600 mAh"
+  },
+  "availability": "In Stock",
+  "platform_url": "https://www.flipkart.com/product/realme-gt-6"
+},
+{
+  "_id": {
+    "$oid": "695b77f55955abd9e106fdcf"
+  },
+  "platform": "Temu",
+  "category": "Smartphone",
+  "product_id": "TEM-SP-011",
+  "product_name": "Samsung Galaxy Z Fold 6",
+  "brand": "Samsung",
+  "price": 6800,
+  "currency": "AED",
+  "rating": 4.8,
+  "reviews_count": 5400,
+  "specs": {
+    "ram": "12 GB",
+    "storage": "512 GB",
+    "processor": "Snapdragon 8 Gen 3",
+    "display": "7.6 inch Foldable AMOLED",
+    "battery": "4400 mAh"
+  },
+  "availability": "Pre-order",
+  "platform_url": "https://www.temu.com/product/galaxy-z-fold-6"
+},
+{
+  "_id": {
+    "$oid": "695b77f55955abd9e106fdd0"
+  },
+  "platform": "Temu",
+  "category": "Smartphone",
+  "product_id": "TEM-SP-012",
+  "product_name": "iPhone 14 Pro Max",
+  "brand": "Apple",
+  "price": 4000,
+  "currency": "AED",
+  "rating": 4.7,
+  "reviews_count": 12800,
+  "specs": {
+    "ram": "6 GB",
+    "storage": "256 GB",
+    "processor": "A16 Bionic",
+    "display": "6.7 inch Super Retina XDR",
+    "battery": "4350 mAh"
+  },
+  "availability": "In Stock",
+  "platform_url": "https://www.temu.com/product/iphone-14-pro-max"
+},
+{
+  "_id": {
+    "$oid": "695b77f55955abd9e106fdd1"
+  },
+  "platform": "Temu",
+  "category": "Smartphone",
+  "product_id": "TEM-SP-013",
+  "product_name": "OnePlus Nord 4",
+  "brand": "OnePlus",
+  "price": 1800,
+  "currency": "AED",
+  "rating": 4.3,
+  "reviews_count": 4100,
+  "specs": {
+    "ram": "8 GB",
+    "storage": "128 GB",
+    "processor": "MediaTek Dimensity 9200",
+    "display": "6.43 inch AMOLED",
+    "battery": "4500 mAh"
+  },
+  "availability": "In Stock",
+  "platform_url": "https://www.temu.com/product/oneplus-nord-4"
+},
+{
+  "_id": {
+    "$oid": "695b77f55955abd9e106fdd2"
+  },
+  "platform": "Temu",
+  "category": "Smartphone",
+  "product_id": "TEM-SP-014",
+  "product_name": "Xiaomi Redmi Note 13 Pro",
+  "brand": "Xiaomi",
+  "price": 1400,
+  "currency": "AED",
+  "rating": 4.4,
+  "reviews_count": 6700,
+  "specs": {
+    "ram": "8 GB",
+    "storage": "256 GB",
+    "processor": "MediaTek Dimensity 6080",
+    "display": "6.67 inch AMOLED",
+    "battery": "5000 mAh"
+  },
+  "availability": "In Stock",
+  "platform_url": "https://www.temu.com/product/redmi-note-13-pro"
+},
+{
+  "_id": {
+    "$oid": "695b77f55955abd9e106fdd3"
+  },
+  "platform": "Temu",
+  "category": "Smartphone",
+  "product_id": "TEM-SP-015",
+  "product_name": "Google Pixel 9",
+  "brand": "Google",
+  "price": 2700,
+  "currency": "AED",
+  "rating": 4.6,
+  "reviews_count": 4200,
+  "specs": {
+    "ram": "8 GB",
+    "storage": "256 GB",
+    "processor": "Google Tensor G5",
+    "display": "6.4 inch OLED",
+    "battery": "4500 mAh"
+  },
+  "availability": "In Stock",
+  "platform_url": "https://www.temu.com/product/pixel-9"
+},
+{
+  "_id": {
+    "$oid": "695b77f55955abd9e106fdd4"
+  },
+  "platform": "Temu",
+  "category": "Smartphone",
+  "product_id": "TEM-SP-016",
+  "product_name": "Oppo Reno 12",
+  "brand": "Oppo",
+  "price": 2000,
+  "currency": "AED",
+  "rating": 4.2,
+  "reviews_count": 3800,
+  "specs": {
+    "ram": "12 GB",
+    "storage": "256 GB",
+    "processor": "Snapdragon 8+ Gen 2",
+    "display": "6.7 inch AMOLED",
+    "battery": "4800 mAh"
+  },
+  "availability": "In Stock",
+  "platform_url": "https://www.temu.com/product/oppo-reno-12"
+},
+{
+  "_id": {
+    "$oid": "695b77f55955abd9e106fdd5"
+  },
+  "platform": "Temu",
+  "category": "Smartphone",
+  "product_id": "TEM-SP-017",
+  "product_name": "Realme 12 Pro",
+  "brand": "Realme",
+  "price": 1600,
+  "currency": "AED",
+  "rating": 4.3,
+  "reviews_count": 3500,
+  "specs": {
+    "ram": "8 GB",
+    "storage": "128 GB",
+    "processor": "MediaTek Dimensity 9200",
+    "display": "6.6 inch AMOLED",
+    "battery": "4500 mAh"
+  },
+  "availability": "In Stock",
+  "platform_url": "https://www.temu.com/product/realme-12-pro"
+},
+{
+  "_id": {
+    "$oid": "695b77f55955abd9e106fdd6"
+  },
+  "platform": "Temu",
+  "category": "Smartphone",
+  "product_id": "TEM-SP-018",
+  "product_name": "Vivo V30",
+  "brand": "Vivo",
+  "price": 1900,
+  "currency": "AED",
+  "rating": 4.3,
+  "reviews_count": 6200,
+  "specs": {
+    "ram": "12 GB",
+    "storage": "256 GB",
+    "processor": "MediaTek Dimensity 8200",
+    "display": "6.78 inch AMOLED",
+    "battery": "4600 mAh"
+  },
+  "availability": "In Stock",
+  "platform_url": "https://www.temu.com/product/vivo-v30"
+},
+{
+  "_id": {
+    "$oid": "695b77f55955abd9e106fdd7"
+  },
+  "platform": "Temu",
+  "category": "Smartphone",
+  "product_id": "TEM-SP-019",
+  "product_name": "Samsung Galaxy A74",
+  "brand": "Samsung",
+  "price": 2200,
+  "currency": "AED",
+  "rating": 4.4,
+  "reviews_count": 4000,
+  "specs": {
+    "ram": "8 GB",
+    "storage": "256 GB",
+    "processor": "Snapdragon 778G",
+    "display": "6.7 inch Super AMOLED",
+    "battery": "5000 mAh"
+  },
+  "availability": "In Stock",
+  "platform_url": "https://www.temu.com/product/galaxy-a74"
+},
+{
+  "_id": {
+    "$oid": "695b77f55955abd9e106fdd8"
+  },
+  "platform": "Temu",
+  "category": "Smartphone",
+  "product_id": "TEM-SP-020",
+  "product_name": "iQOO 12",
+  "brand": "iQOO",
+  "price": 2100,
+  "currency": "AED",
+  "rating": 4.3,
+  "reviews_count": 3200,
+  "specs": {
+    "ram": "12 GB",
+    "storage": "256 GB",
+    "processor": "Snapdragon 8+ Gen 2",
+    "display": "6.78 inch AMOLED",
+    "battery": "4700 mAh"
+  },
+  "availability": "In Stock",
+  "platform_url": "https://www.temu.com/product/iqoo-12"
+}]
